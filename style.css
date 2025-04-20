@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+  }
+  header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+  }
+  
+  main {
+    width: 393px;
+    height: 852px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000000;
+  }
+
+  figure {
+    width: 140px;
+    height: 140px;
+    display: flex;
+    justify-content: center;
+    
+  }
+
+  footer {
+      width: 100px;
+      height: 5px;
+      background-color: rgb(255, 255, 255);
+      border: 0px solid transparent;
+      border-radius: 100px;
+      margin-bottom: 5px;
+      margin: 0 auto;
+  }
